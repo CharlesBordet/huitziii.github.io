@@ -10,9 +10,19 @@ Besoin d'un data scientist pour traiter vos données ?
 Mes clients font appel à moi pour les services suivants :
 
 * [Dashboard R Shiny](#dashboard-r-shiny)
-* [Prédictions de LCV](#predictions-de-lcv)
+* [Prédictions de LCV](#prédictions-de-lcvlifetime-customer-value)
 * [Statistiques pour la Recherche](#statistiques-pour-la-recherche)
 * [Formation en R et Statistiques](#formation-en-r-et-statistiques)
+
+Ils m'ont fait confiance :
+
+<div class="text-center">
+	<img src="{{ "/assets/images/renault-logo.png" | absolute_url }}" width="125px" style="margin: 20px">
+	<img src="{{ "/assets/images/bcg-logo.png" | absolute_url }}" width="125px" style="margin: 20px">
+	<img src="{{ "/assets/images/emma-logo.jpg" | absolute_url }}" width="125px" style="margin: 20px">
+	<img src="{{ "/assets/images/formation-bigdata-logo.jpg" | absolute_url }}" width="125px" style="margin: 20px">
+	<img src="{{ "/assets/images/cargomedia-logo.png" | absolute_url }}" width="125px" style="margin: 20px">
+</div>
 
 ## Dashboard R Shiny
 
@@ -33,7 +43,7 @@ R Shiny est un package R permettant de créer des dashboards intuitifs et intera
 
 R Shiny est particulièrement adapté pour une utilisation en interne afin de suivre des KPIs au jour le jour, interagir directement avec les données, ou visualiser les résultats de modèles de prédiction.
 
-## Prédictions de LCV
+## Prédictions de <span class="tooltip">LCV<span class="tooltiptext">Lifetime Customer Value</span></span>
 
 Si vous avez un produit SaaS, alors vous vous êtes forcément posé la question de déterminer la *Lifetime Customer Value* de votre business, i.e. la valeur moyenne que va apporter chacun de vos clients.
 

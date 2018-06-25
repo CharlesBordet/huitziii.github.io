@@ -1,6 +1,5 @@
 ---
 layout: single
-classes: wide
 permalink: /services/
 title: "Mes Services"
 ---
@@ -9,12 +8,12 @@ Besoin d'un data scientist pour traiter vos données ?
 
 Mes clients font appel à moi pour les services suivants :
 
-* [Dashboard R Shiny](#dashboard-r-shiny)
+* [Tableaux de bord R Shiny](#tableaux-de-bord---r-shiny)
 * [Prédictions de LCV](#prédictions-de-lcvlifetime-customer-value)
 * [Statistiques pour la Recherche](#statistiques-pour-la-recherche)
 * [Formation en R et Statistiques](#formation-en-r-et-statistiques)
 
-Ils m'ont fait confiance :
+Ils me font confiance :
 
 <div class="text-center">
 	<img src="{{ "/assets/images/renault-logo.png" | absolute_url }}" width="125px" style="margin: 20px">
@@ -22,16 +21,17 @@ Ils m'ont fait confiance :
 	<img src="{{ "/assets/images/emma-logo.jpg" | absolute_url }}" width="125px" style="margin: 20px">
 	<img src="{{ "/assets/images/formation-bigdata-logo.jpg" | absolute_url }}" width="125px" style="margin: 20px">
 	<img src="{{ "/assets/images/cargomedia-logo.png" | absolute_url }}" width="125px" style="margin: 20px">
+	<img src="{{ "/assets/images/dataexp-logo.png" | absolute_url }}" width="125px" style="margin: 20px">
 </div>
 
-## Dashboard R Shiny
+## Tableaux de bord - R Shiny
 
 <div class="text-center">
-	<img src="{{ "/assets/images/duraviz.png" | absolute_url }}" width="300px" style="margin: 30px">
-	<img src="{{ "/assets/images/mds.png" | absolute_url }}" width="300px" style="margin: 30px">
+	<img src="{{ "/assets/images/duraviz.png" | absolute_url }}" width="200px" style="margin: 30px">
+	<img src="{{ "/assets/images/mds.png" | absolute_url }}" width="200px" style="margin: 30px">
 </div>
 
-R Shiny est un package R permettant de créer des dashboards intuitifs et interactifs qui se mettent à jour automatiquement lors de l'ajout de nouvelles données.
+R Shiny est un module de R permettant de créer des dashboards intuitifs et interactifs qui se mettent à jour automatiquement lors de l'ajout de nouvelles données.
 
 Étant basé sur le langage R, un dashboard R Shiny est totalement personnalisable :
 
@@ -60,13 +60,13 @@ Par exemple, une de mes missions a consisté à aider un site de rencontre à op
 ## Statistiques pour la Recherche
 
 <div class="text-center">
-	<img src="{{ "/assets/images/pella-tomlinson.png" | absolute_url }}" width="300px" style="margin: 30px">
-	<img src="{{ "/assets/images/MOMAB.png" | absolute_url }}" width="300px" style="margin: 30px">
+	<img src="{{ "/assets/images/pella-tomlinson.png" | absolute_url }}" width="200px" style="margin: 30px">
+	<img src="{{ "/assets/images/MOMAB.png" | absolute_url }}" width="200px" style="margin: 30px">
 </div>
 
 Mon background académique en statistique me permet d'aider les chercheurs lorsqu'ils ont besoin de réaliser des études statistiques et d'analyser leurs données.
 
-Après un master de Statistique, j'ai approché le monde de la recherche en commençant un doctorat (non terminé), avant de repartir vers l'industrie. Je continue de proposer mes services dans le monde de la recherche, par exemple en collaborant régulièrement avec <span class="tooltip">EMMA<span class="tooltiptext">European Market Maintenance Assessment</span></span>, en dermatologie, depuis janvier 2018.
+Après un master de Statistique, j'ai approché le monde de la recherche en commençant un doctorat (interrompu lors de la 2e année), avant de repartir vers l'industrie. Je continue de proposer mes services dans le monde de la recherche, par exemple en collaborant régulièrement avec <span class="tooltip">EMMA<span class="tooltiptext">European Market Maintenance Assessment</span></span>, en dermatologie, depuis janvier 2018.
 
 **Publications** :
 
@@ -77,8 +77,8 @@ Après un master de Statistique, j'ai approché le monde de la recherche en comm
 ## Formation en R et Statistiques
 
 <div class="text-center">
-	<img src="{{ "/assets/images/deep-learning-udemy.png" | absolute_url }}" width="300px" style="margin: 30px">
-	<img src="{{ "/assets/images/r-udemy.png" | absolute_url }}" width="300px" style="margin: 30px">
+	<img src="{{ "/assets/images/deep-learning-udemy.png" | absolute_url }}" width="200px" style="margin: 30px">
+	<img src="{{ "/assets/images/r-udemy.png" | absolute_url }}" width="200px" style="margin: 30px">
 </div>
 
 Afin de transmettre mon savoir, j'ai créé des cours en ligne regroupant plus de 2000 étudiants sur la plate-forme Udemy :
